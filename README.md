@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## LANGUAGES:
+![grafik](https://github.com/user-attachments/assets/a8866f39-cb25-41fa-87be-d4ee041cebdf)
 <!--
 **Ogga029/ogga029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
