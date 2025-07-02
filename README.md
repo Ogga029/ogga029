@@ -35,7 +35,6 @@
 
 <p>
   <a href="https://github.com/Ogga029"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <!-- Add your LinkedIn, Twitter, etc. here -->
 </p>
 
 ---
@@ -43,10 +42,3 @@
 ### ✨ Fun Fact
 
 > "Programming isn't about what you know; it's about what you can figure out." – Chris Pine
-
----
-
-<!-- GitHub Stats (optional) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ogga029&show_icons=true&theme=tokyonight" width="420"/>
-</p>
